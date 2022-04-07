@@ -10,4 +10,5 @@ import tobbi_app
 
 tobbi_app.TobiiApp().run()
 
-![5_455,193](https://user-images.githubusercontent.com/73743450/162196788-d10c9b95-4a6d-4a8b-8fe6-05a53c83fce8.png)
+
+![image0](https://user-images.githubusercontent.com/73743450/162205220-04a93fba-edfb-4b3c-908d-2c7be9518900.png)
