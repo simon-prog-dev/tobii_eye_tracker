@@ -5,7 +5,7 @@ A simple kivy interface is used.
 installation necessary:
 kivy,cv2,tobiiglassesctrl,numpy
 
-#to run it
+#to run it \n
 import tobbi_app
 tobbi_app.TobiiApp().run()
 
